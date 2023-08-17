@@ -21,7 +21,7 @@ O "Sobre Mim", onde descrevo um pouco da minha pessoa, da minha trajetória e cu
 
 E o "Teste", onde é somente uma tela mostrando o que aconteceria se o usuário digitasse no URL uma rota que não existe.
 
-🌎 Deploy do projeto: 
+🌎 Deploy do projeto: https://lusca-projeto-hello-word.vercel.app/
 
 ---
 
